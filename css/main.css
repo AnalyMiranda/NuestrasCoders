@@ -1,0 +1,32 @@
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+span {
+	position: relative;
+	color: #FFFFFF;
+	left: 75px;
+	bottom: 30px;
+	font-family: Arial;
+}
+.bloqueu {
+	height: 250px;
+	width: 800px;
+	margin-top: 30px;
+	padding-left: 3px;
+	display: inline-block;
+}
+.profile {
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right: 20px;
+}
+.bloqued {
+	height: 300px;
+	width: 800px;
+	margin-top: -10px;
+	padding-left: 3px;
+	display: inline-block;
+}
